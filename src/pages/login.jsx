@@ -16,7 +16,7 @@ export default function login() {
               <label className='text-slate-500'>Email</label>
               <img 
                className='absolute bottom-1.5'
-               src='images/email.svg' 
+               src='images/Email.svg' 
                alt='email' 
                />
               <input 
@@ -31,7 +31,7 @@ export default function login() {
               <label className='text-slate-500'>Password</label>
               <img 
                className='absolute bottom-1.5'
-               src='images/lock.svg' 
+               src='images/Lock.svg' 
                alt='lock' 
                />
               <input 
@@ -51,7 +51,7 @@ export default function login() {
                 <p className="text-slate-300 mt-5 text-center">or continue with</p>
                 <div className='flex justify-between w-44 mt-5 mx-auto'>
                   <a href=' #'>
-                    <img className='h-10' src='images/facebook.svg' alt='facebook' />
+                    <img className='h-10' src='images/Facebook.svg' alt='facebook' />
                   </a>
                   <a href=' #'>
                     <img className='h-10' src='images/apple.svg' alt='apple' />

@@ -18,7 +18,7 @@ export default function register() {
             <label className='text-slate-500'>Email</label>
             <img 
              className='absolute bottom-1.5'
-             src='images/email.svg' 
+             src='images/Email.svg' 
              alt='email' 
              />
             <input 
@@ -48,7 +48,7 @@ export default function register() {
               <label className='text-slate-500'>Password</label>
               <img 
                className='absolute bottom-1.5'
-               src='images/lock.svg' 
+               src='images/Lock.svg' 
                alt='lock' 
                />
               <input 
@@ -63,7 +63,7 @@ export default function register() {
               <label className='text-slate-500'>Confirm Password</label>
               <img 
                className='absolute bottom-1.5'
-               src='images/lock.svg' 
+               src='images/Lock.svg' 
                alt='lock' 
                />
               <input 
