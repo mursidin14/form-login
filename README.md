@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Demo App
 
-Click this link [https://form-loginrm.netlify.app/] to view the website
+Click this link [https://form-login-jet.vercel.app/] to view the website
